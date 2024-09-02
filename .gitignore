@@ -1,0 +1,7 @@
+.venv/
+airflow-data/*
+data/csv_files/*
+brazil_ecommerce/project/project
+brazil_ecommerce/project/target
+brazil_ecommerce/target
+jobs/*
